@@ -6,16 +6,24 @@ Als je de terminal gebruikt, kun je heel snel bestanden maken én je projectmap 
 
 ### 1. 📝 Maak een nieuw bestand aan
 
-Gebruik `touch` om een bestand te maken (bijv. `hello.txt`):
+Gebruik één van de volgende manieren om een bestand `hello.txt` te maken:
+
+* **Windows (PowerShell):**
+
+  ```powershell
+  New-Item hello.txt
+  ```
+
+* **macOS / Linux (Terminal):**
+
+  ```bash
+  touch hello.txt
+  ```
+
+Controleer of het gelukt is met:
 
 ```bash
-touch hello.txt
-```
-
-Controleer met `ls` of het er staat:
-
-```bash
-ls
+ls    # of `dir` op Windows
 ```
 
 ---

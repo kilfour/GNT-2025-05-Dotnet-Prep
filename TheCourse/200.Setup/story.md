@@ -26,7 +26,9 @@
 
 #### 🎯 Optioneel: 
  * bekijk de extensie mogelijkheden van VS Code.  
- * Creëer via de terminal een bestand `hello.txt` openen het in VS Code.
+ * Creëer via de terminal een bestand `hello.txt`, open het in VS Code.
+
+ ![A passing test](vite-result.png)
 
 ### 🗒️ Notities
 
