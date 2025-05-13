@@ -3,7 +3,7 @@
 
 ### Selectie
 
-```jsS
+```js
 document.querySelector("#id")
 document.querySelectorAll(".klasse")
 document.getElementById("id")

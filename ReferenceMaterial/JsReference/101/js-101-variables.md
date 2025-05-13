@@ -65,7 +65,7 @@ console.log("Mijn naam is " + name);
 console.log("De naam van mijn zus is " + sisterName);
 ```
 
-### new Number()
+### Number()
 
 ```js
 let htmlBadges = Number('5');
@@ -74,7 +74,7 @@ let totalBadges = htmlBadges + cssBadges;
 console.log('Wauw, je hebt ' + totalBadges + " badges!");
 ```
 
-`new Number()` converteert een string naar een getal.
+`Number()` converteert een string naar een getal.
 
 **Let op met types!**
 
