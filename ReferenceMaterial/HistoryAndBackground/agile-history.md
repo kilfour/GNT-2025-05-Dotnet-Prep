@@ -5,7 +5,7 @@
 - Known as **Waterfall**, this approach assumed full knowledge of requirements upfront.
 - Projects often delivered late, over budget, and failed to meet real needs.
 
----
+--- slide ---
 
 ### ⚡ Early 1990s: Rebellion and Experiments
 - Developers began seeking more adaptive methods.
@@ -15,7 +15,7 @@
   - **1994-1996**: Alistair Cockburn formalizes *Crystal* methodologies.
   - **1996**: Kent Beck applies what becomes **Extreme Programming (XP)** on the Chrysler C3 payroll project.
 
----
+--- slide ---
 
 ### 📘 1999–2000: XP Takes Shape
 - **1999**: Kent Beck publishes *Extreme Programming Explained*.
@@ -27,7 +27,7 @@
   - Collective Ownership
 - These ideas prioritize developer experience and rapid feedback.
 
----
+--- slide ---
 
 ### 🏔️ 2001: Agile Manifesto
 - 17 developers gather at Snowbird, Utah, to share lightweight approaches.
@@ -38,7 +38,7 @@
   - Responding to Change over Following a Plan
 - Signatories include creators of XP, Scrum, DSDM, FDD, and Crystal.
 
----
+--- slide ---
 
 ### 🚀 2002–2010: Agile Adoption & Mainstreaming
 - **Scrum** rises in popularity due to its clear roles and ceremonies.
@@ -46,7 +46,7 @@
 - Agile certifications boom (e.g., Certified ScrumMaster).
 - Many organizations confuse "doing agile" with "being agile."
 
----
+--- slide ---
 
 ### 🧪 2011–2015: Lean, DevOps & Software Craftsmanship
 
@@ -66,7 +66,7 @@
 - Treats development as a craft, not just engineering.
 - Strongly aligned with XP values.
 
----
+--- slide ---
 
 ### 🌍 2016–Now: Scaling Agile & Pushback
 
@@ -89,7 +89,7 @@
 - Focus on frameworks over values.
 - XP regains interest in dev circles as a return to core principles.
 
----
+--- slide ---
 
 ### ♻ Ongoing Themes
 - Agile is a mindset, not a method.

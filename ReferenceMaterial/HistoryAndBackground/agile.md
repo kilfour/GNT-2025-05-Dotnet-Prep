@@ -82,7 +82,7 @@
 
 Examples of XP practices:
 
-- **Simple Design**: Do the simplest thing that works
+- **Simple Design**: Do the simplest thing that could possibly work
 - **Refactoring**: Clean code constantly
 - **Pair Programming**: Share knowledge + improve quality
 - **Sustainable Pace**: No burnout = better product

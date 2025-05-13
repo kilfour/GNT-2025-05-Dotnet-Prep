@@ -51,7 +51,7 @@ In deze map staan twee bestanden:
 ### 🎯 Bonus
 
 * Probeer de test expres te laten falen (door `"Hallo!"` te retourneren) en kijk wat Vitest zegt.
-* Voeg een tweede functie toe, zoals `helloName(name)` die `"Hello, Fatima"` retourneert.
+* Voeg een tweede functie toe, zoals `helloName(name)` die `"Hello, Mark"` retourneert.
 
 ---
 
