@@ -1,6 +1,6 @@
-# Javascript 101 
 
-### Iets afdrukken
+[⬅️ Index](./readme.md) | [Variabelen ➡️](./js-101-variables.md)
+## Iets Afdrukken
 
 ```js
 console.log("Hello world");

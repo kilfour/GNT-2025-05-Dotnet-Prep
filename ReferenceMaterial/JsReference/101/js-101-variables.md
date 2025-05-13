@@ -1,6 +1,5 @@
-# Javascript 101 
-
-### Variabelen
+[⬅️ Hello World](./js-101-hello-world.md) | [Functies ➡️](./js-101-functies.md)
+## Variabelen
 
 ```js
 let age = 25;

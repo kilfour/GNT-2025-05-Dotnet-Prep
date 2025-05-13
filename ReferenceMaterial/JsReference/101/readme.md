@@ -5,5 +5,5 @@
  - [Functies](./js-101-functies.md)
  - [Objecten](./js-101-objects.md)
  - [Arrays](./js-101-arrays.md)
- - [Control Structuren](./js-101-control-structures.md)
+ - [Controle Structuren](./js-101-control-structures.md)
  - [DOM Manipulatie](./js-101-dom.md)

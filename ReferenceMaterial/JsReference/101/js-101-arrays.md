@@ -1,5 +1,4 @@
-# Javascript 101 
-
+[⬅️ Objecten](./js-101-object.md) | [Controle Structuren ➡️](./js-101-control-structures.md)
 ## Arrays 
 
 Arrays zijn verzamelingen van gegevens in een vaste volgorde. Je kunt meerdere waarden in één variabele opslaan.

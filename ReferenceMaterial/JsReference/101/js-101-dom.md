@@ -1,8 +1,9 @@
+[⬅️ Controle Structuren](./js-101-control-structures.md) | [Index ➡️](./readme.md)
 ## DOM-manipulatie
 
 ### Selectie
 
-```js
+```jsS
 document.querySelector("#id")
 document.querySelectorAll(".klasse")
 document.getElementById("id")

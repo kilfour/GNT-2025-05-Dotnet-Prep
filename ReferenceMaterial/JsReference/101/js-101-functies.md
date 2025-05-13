@@ -1,5 +1,4 @@
-# Javascript 101 
-
+[⬅️ Variabelen](./js-101-variables.md) | [Objecten ➡️](./js-101-object.md)
 ## Functies
 
 Functies zijn herbruikbare stukjes code.

@@ -1,5 +1,4 @@
-# Javascript 101 
-
+[⬅️ Arrays](./js-101-arrays.md) | [DOM Manipulatie ➡️](./js-101-dom.md)
 
 ## Control Structures (Besturingsstructuren)
 

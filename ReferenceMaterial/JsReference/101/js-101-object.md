@@ -1,5 +1,4 @@
-# Javascript 101 
-
+[⬅️ Functies](./js-101-functies.md) | [Arrays ➡️](./js-101-arrays.md)
 ## Objecten
 
 Objecten zijn verzamelingen van eigenschappen (key-value).
