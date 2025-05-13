@@ -47,6 +47,4 @@ document.querySelector("button").addEventListener("click", () => {
 });
 ```
 
----
 
-✅ Je hebt nu een overzicht van de belangrijkste JS-thema's: variabelen, controle, arrays, functies, objecten en DOM. Veel succes met de oefeningen!
