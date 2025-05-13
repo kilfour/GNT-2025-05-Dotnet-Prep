@@ -7,3 +7,4 @@
  - [Arrays](./js-101-arrays.md)
  - [Controle Structuren](./js-101-control-structures.md)
  - [DOM Manipulatie](./js-101-dom.md)
+ - [Vitest](./vitest.md)
