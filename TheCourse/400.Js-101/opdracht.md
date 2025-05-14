@@ -24,7 +24,7 @@ variables/
 ## 📎 Je gebruikt daarbij:
 
 - De [Js-101 referentiebestanden](../../ReferenceMaterial/JsReference/101/readme.md) 
-- De uitleg over testen met [**Vitest**](../../ReferenceMaterial/JsReference/101/vitest.md)
+- De uitleg over testen met [**Vitest**](../../ReferenceMaterial/JsReference/Vitest/readme.md)
 - De checklist onderaan dit document
 
 ### 📋 Checklist bij elke opdracht:

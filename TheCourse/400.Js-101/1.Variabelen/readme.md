@@ -13,7 +13,7 @@ De leerling leert hoe je met `let` een variabele definieert en er een waarde aan
 * [ ] Ik kan een variabele aanmaken met `let` en er een waarde aan toekennen
 * [ ] Ik kan de waarde van een variabele opnieuw wijzigen
 * [ ] Ik herken verschillende types zoals getal, tekst (string) en boolean
-* [ ] Ik kan eenvoudige rekeningen maken met variabelen
+* [ ] Ik kan eenvoudige berekeningen maken met variabelen
 * [ ] Ik zie het verschil tussen optellen van getallen en concatenatie van strings
 
 ### 🔍 Notities / Open Vragen

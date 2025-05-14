@@ -10,11 +10,11 @@ De ontwikkelaar leert de basisconcepten van programmeren aan de hand van JavaScr
 
 ### ✅ Acceptatiecriteria
 
-* [ ] Ik kan variabelen maken en gebruiken
-* [ ] Ik kan functies definiëren en hergebruiken
-* [ ] Ik kan werken met objecten en arrays
-* [ ] Ik kan beslissingen nemen in code met if/else
-* [ ] Ik kan eenvoudige DOM-manipulaties doen
-* [ ] Ik begrijp het verschil tussen types zoals string, number, boolean
+* [ ] [Ik kan variabelen maken en gebruiken](./1.Variabelen/readme.md) 
+* [ ] [Ik kan functies definiëren en hergebruiken](./2.Functies/readme.md)
+* [ ] [Ik kan werken met objecten](./3.Objecten/readme.md)
+* [ ] [Ik kan werken met arrays](./4.Arrays/readme.md)
+* [ ] [Ik kan beslissingen nemen in code met if/else](./5.ControleStructuren/readme.md)
+* [ ] [Ik kan eenvoudige DOM-manipulaties doen](./6.DOMManipulatie/)
 
 ### 🧮 Estimate: 
